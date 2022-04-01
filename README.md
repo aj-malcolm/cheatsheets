@@ -18,5 +18,5 @@ cheat sheets for various tools/software
 | Command | Description |
 | -- | -- |
 | `Ctrl` + `<num>` | Switch to column `<num>` in multi-column view |
-| `Ctrl` + `K` +  `Ctrl` + `<arrow>` | Switch to pane in direction of arrow |
+| `Ctrl` + `K` then `Ctrl` + `<arrow>` | Switch to pane in direction of arrow |
 | `Alt` + `<num>` | Switch to tab `<num>` |
