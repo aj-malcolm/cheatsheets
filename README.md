@@ -17,6 +17,7 @@ cheat sheets for various tools/software
 
 | Command | Description |
 | -- | -- |
+| `Ctrl` + `G` | Go to line number |
 | `Ctrl` + `<num>` | Switch to column `<num>` in multi-column view |
 | `Ctrl` + `K` then `Ctrl` + `<arrow>` | Switch to pane in direction of arrow |
 | `Alt` + `<num>` | Switch to tab `<num>` |
