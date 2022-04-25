@@ -10,6 +10,7 @@ cheat sheets for various tools/software
 
 - [Sublime](https://github.com/aj-malcolm/cheatsheets#sublime)
 - [Vim](https://github.com/aj-malcolm/cheatsheets#vim)
+- [Windows Terminal](https://github.com/aj-malcolm/cheatsheets#windows-terminal)
 
 ## Sublime
 
@@ -62,5 +63,15 @@ Completion can be done for:
 | `i_CTRL-X_CTRL-U` |  User defined completion |
 | `i_CTRL-X_CTRL-O` |  omni completion |
 | `i_CTRL-X_s` |  Spelling suggestions |
-| `i_CTRL-N`/`i_CTRL-P` |  keywords in 'complete-window` |
+| `i_CTRL-N`/`i_CTRL-P` |  keywords in 'complete-window' |
+
+## Windows Terminal
+
+| Command | Description |
+| -- | -- |
+| `alt` + `shift` + `=` | New pane (right) |
+| `alt` + `shift` + `-` | New pane (btm) |
+| `alt` + `shift` + `arrow` | Resize |
+| `alt` + `arrow` | Change focus |
+| `ctrl` + `shift` + `w` | Close pane |
 
