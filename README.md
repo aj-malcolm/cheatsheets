@@ -75,3 +75,13 @@ Completion can be done for:
 | `alt` + `arrow` | Change focus |
 | `ctrl` + `shift` + `w` | Close pane |
 
+## Windows Terminal
+
+| Command | Description |
+| -- | -- |
+| `alt` + `shift + `=` | New pane (right) |
+| `alt` + `shift + `-` | New pane (btm) |
+| `alt` + `shift + `arrow` | Resize |
+| `alt` + `arrow` | Change focus |
+| `ctrl` + `shift` + `w` | Close pane |
+
