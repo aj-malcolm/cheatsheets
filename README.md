@@ -79,9 +79,9 @@ Completion can be done for:
 
 | Command | Description |
 | -- | -- |
-| `alt` + `shift + `=` | New pane (right) |
-| `alt` + `shift + `-` | New pane (btm) |
-| `alt` + `shift + `arrow` | Resize |
+| `alt` + `shift` + `=` | New pane (right) |
+| `alt` + `shift` + `-` | New pane (btm) |
+| `alt` + `shift` + `arrow` | Resize |
 | `alt` + `arrow` | Change focus |
 | `ctrl` + `shift` + `w` | Close pane |
 
