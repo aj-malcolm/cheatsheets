@@ -23,6 +23,7 @@ cheat sheets for various tools/software
 | `Ctrl` + `Shift` + `F` | Search all (folder or open files) |
 | `Ctrl` + `[`/`]` | Indent line in direction |
 | `Ctrl` + `/` | Comment out line(s) |
+| `Ctrl` + `Alt` + `<up>`/`<down>` | Add another cursor in direction of arrow |
 
 ### Navigation
 
