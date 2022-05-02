@@ -12,4 +12,5 @@
 
 ## How to
 
-[Sorting list based on values from another list](https://stackoverflow.com/a/6618543)
+- [Sorting list based on values from another list](https://stackoverflow.com/a/6618543)
+- [Tkinter Video Playlist (Codemy)](https://www.youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV)
