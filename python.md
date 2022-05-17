@@ -9,6 +9,7 @@
 
 **Insights**
 - [Metaclasses](https://stackoverflow.com/a/6581949)
+- [MVC with Tkinter](https://www.pythontutorial.net/tkinter/tkinter-mvc/)
 
 ## How to
 
@@ -16,6 +17,9 @@
 - [Tkinter Video Playlist (Codemy)](https://www.youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV)
 
 ## Other
+
+- [PEP 8 Style](https://pep8.org/)
+- [Sphinx documentation tool](https://www.sphinx-doc.org/en/master/)
 
 ### Dictionaries
 
