@@ -3,6 +3,7 @@ cheat sheets for various tools/software
 
 **Table of Contents**
 
+- [git](https://github.com/aj-malcolm/cheatsheets#git)
 - [Python](https://github.com/aj-malcolm/cheatsheets/blob/main/python.md#python)
   - [Documentation](https://github.com/aj-malcolm/cheatsheets/blob/main/python.md#documentation--insights)
   - [How-tos](https://github.com/aj-malcolm/cheatsheets/blob/main/python.md#how-to)
