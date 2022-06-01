@@ -12,6 +12,13 @@ cheat sheets for various tools/software
 - [Vim](https://github.com/aj-malcolm/cheatsheets#vim)
 - [Windows Terminal](https://github.com/aj-malcolm/cheatsheets#windows-terminal)
 
+## Git
+
+| Command | Description |
+| -- | -- |
+| `git diff --cached` | `--cached` means show the changes in the cache/index (i.e. staged changes) against the current `HEAD`. `--staged` is a synonym for `--cached.` [source](https://stackoverflow.com/a/1587877) |
+| `git diff --cached --color=always | less -r` | `--color=always` tells git to include color codes even when outputting to a pip instead of tty. `-r` tells less to read color codes. |
+
 ## Sublime
 
 ### Editing
