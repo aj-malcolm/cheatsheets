@@ -3,6 +3,14 @@
 ## Documentation & Insights
 
 **Documentation**
+- [Python Docs](https://docs.python.org/3/)
+- [The Python Standard Standard Library](https://docs.python.org/3/library/index.html)
+- [The Python Language Reference](https://docs.python.org/3/reference/index.html)
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+- [Python HOWTOs](https://docs.python.org/3/howto/index.html)
+  - Logging, Sorting, Argparse
+
+**Modules**
 - [Python SQLite3](https://docs.python.org/3/library/sqlite3.html)
 - [Python Tkinter TTK](https://docs.python.org/3/library/tkinter.ttk.html)
 - [Tkinter 8.5 Reference](https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/index.html)
