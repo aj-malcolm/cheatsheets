@@ -9,11 +9,14 @@
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Python HOWTOs](https://docs.python.org/3/howto/index.html)
   - Logging, Sorting, Argparse
+- [Python Packaging User Guide](https://packaging.python.org/en/latest/)
+  - [Packaging Tutorial](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
 
 **Modules**
 - [Python SQLite3](https://docs.python.org/3/library/sqlite3.html)
 - [Python Tkinter TTK](https://docs.python.org/3/library/tkinter.ttk.html)
 - [Tkinter 8.5 Reference](https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/index.html)
+  - [Events](https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/events.html)
 
 **Insights**
 - [Metaclasses](https://stackoverflow.com/a/6581949)
