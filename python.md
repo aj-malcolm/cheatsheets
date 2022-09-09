@@ -1,5 +1,7 @@
 # Python
 
+[Code Snippets](#code-snippets)
+
 ## Documentation & Insights
 
 **Documentation**
@@ -31,6 +33,8 @@
 
 - [PEP 8 Style](https://pep8.org/)
 - [Sphinx documentation tool](https://www.sphinx-doc.org/en/master/)
+
+## Code Snippets
 
 ### Dictionaries
 
