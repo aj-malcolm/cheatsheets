@@ -36,6 +36,9 @@
 
 ## Code Snippets
 
+[Dictionaries](#dictionaries)
+[CSV](#csv)
+
 ### Dictionaries
 
 Print all keys:
@@ -61,3 +64,7 @@ print all keys and values:
 for x, y in thisdict.items():
   print(x, y)
 ```
+
+### CSV
+
+[Python Documentation](https://docs.python.org/3/library/csv.html)
